@@ -1,0 +1,30 @@
+**For Template.cpp**
+
+//Sample case 1:
+
+Enter 2 numbers for int
+4
+2
+With int, division is = 2
+Enter 2 numbers for float
+6.4
+2
+With float, division is = 3.2
+
+
+//Sample case 2:
+ 
+Enter 2 numbers for int
+5
+0
+Denominator cannot be zero
+Enter 2 numbers for float
+5.5
+0
+Denominator cannot be zero
+
+
+**For Lambda.cpp**
+//For the sum of 1,2,3,4,5
+Output : 
+Sum of elements in vector is : 15
